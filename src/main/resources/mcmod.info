@@ -1,0 +1,16 @@
+[
+{
+  "modid": "basics",
+  "name": "Basics",
+  "description": "A mod for basic utils to create endless possibillities.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "brurberg.no",
+  "updateUrl": "",
+  "authorList": ["Sindre Brurberg"],
+  "credits": "The Forge and FML guys, for making the amazing FML",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
